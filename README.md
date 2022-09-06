@@ -19,6 +19,9 @@
   
 </div>
 
+<br>
+<br>
+
 <div> 
   <a href="LINK DO MEU CANAL DO YOUTUBE" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/fpdvloper?igshid=YmMyMTA2M2Y=" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
