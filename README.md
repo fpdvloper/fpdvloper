@@ -1,7 +1,8 @@
 ## Olá! eu sou o Patrick Nascimento 👋
 
-- 🌱 Student Developer FullStack ...
-- 😄 Pronouns: Ele/Dele
+- 🌱 
+estudante Desenvolvedor FullStack ...
+- 😄 Pronomes: Ele/Dele
 <h2><strong>↓</strong></h2>
 <div>
   <a href="https://github.com/fpdvloper">
