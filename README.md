@@ -1,7 +1,7 @@
 ## Olá! eu sou o Patrick Nascimento 👋
 
 - 🌱 
-estudante Desenvolvedor FullStack ...
+estudante Desenvolvedor FullStack / Cyber Segurança / Dados ...
 - 😄 Pronomes: Ele/Dele
 <h2><strong>↓</strong></h2>
 <div>
